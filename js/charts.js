@@ -155,7 +155,6 @@ function buildCharts(sample) {
       title: "Belly Button Washing Frequency <br>--------------------<br> Scrubs Per Week",
       gauge: {
         bar: { color: "black" },
-        bgcolor: "white",
         borderwidth: 2,
         bordercolor: "grey20",
         axis: { 
